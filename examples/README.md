@@ -9,3 +9,6 @@
 ### Text & sequences examples
 
 [addition_rnn.py](https://github.com/kaikefly/keras/tree/master/examples/addition_rnn.py) Implementation of sequence to sequence learning for performing addition of two numbers (as strings).
+[imdb_lstm.py](https://github.com/kaikefly/keras/tree/master/examples/imdb_lstm.py) Trains an LSTM model on the IMDB sentiment classification task.
+[imdb_bidirectional_lstm.py](https://github.com/kaikefly/keras/tree/master/imdb_bidirectional_lstm.py) Trains a Bidirectional LSTM on the IMDB sentiment classification task.
+[lstm_seq2seq.py](https://github.com/kaikefly/keras/tree/master/examples/lstm_seq2seq.py) Trains a basic character-level sequence-to-sequence model.
